@@ -2,6 +2,7 @@ import './App.css';
 import Banner from './Components/Banner';
 import CardPart from './Components/CardPart';
 import FeaturedPart from './Components/FeaturedPart';
+import Footer from './Components/Footer';
 import HowWork from './Components/HowWork';
 import Nav from './Components/Nav';
 import SecondPart from './Components/SecondPart';
@@ -17,6 +18,8 @@ function App() {
       <CardPart></CardPart>
       <FeaturedPart></FeaturedPart>
       <HowWork></HowWork>
+      <Footer></Footer>
+
 
 
     </div>
