@@ -5,7 +5,7 @@ const HowWork = () => {
     return (
         <div>
 
-            <div class="hero min-h-screen">
+            <div class="hero min-h-screen mt-0">
                 <div class="hero-content flex-col lg:flex-row-reverse ">
                     <div>
                         <img className='h-72' src={works} alt='' />
